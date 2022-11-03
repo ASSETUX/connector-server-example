@@ -1,0 +1,9 @@
+const PORT = 3000;
+
+const ASSETUX_TOKEN = "sandr";
+
+const ASSETUX_TOKEN_ALGORITHM = "sha256";
+
+const ASSETUX_BACKEND_URL = "https://bsc.assetux.com";
+
+export { PORT, ASSETUX_TOKEN, ASSETUX_TOKEN_ALGORITHM, ASSETUX_BACKEND_URL };
